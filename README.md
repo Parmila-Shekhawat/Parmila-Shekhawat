@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Pammi 👋
 
-<!--
-**Parmila-Shekhawat/Parmila-Shekhawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+💻 Java & Web Developer  
+🚀 Passionate about building practical and real-world software solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- Java  
+- HTML, CSS, JavaScript  
+- Data Structures & OOPs  
+
+---
+
+## 🚀 Projects
+- Stock Maintenance System  
+- Personal Portfolio Website  
+- Calculator Application  
+- Tic Tac Toe Game (Java)  
+
+---
+
+## 📈 Currently Learning
+- Advanced Java  
+- Web Development  
+- Problem Solving (DSA)  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add link)
+- GitHub: (your profile link)
