@@ -1,4 +1,4 @@
-# Hi, I'm Pammi 👋
+# Hi, I'm Parmila 👋
 
 🎓 B.Tech Student  
 💻 Java & Web Developer  
@@ -29,5 +29,4 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add link)
-- GitHub: (your profile link)
+- LinkedIn: https://www.linkedin.com/in/parmila-shekhawat-791938379
